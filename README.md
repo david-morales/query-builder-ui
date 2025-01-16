@@ -4,7 +4,7 @@ This project is a React-based Query Builder that provides a user-friendly interf
 
 ## 📸 Screenshot
 
-![Query Builder UI Screenshot](./screenshots/query-builder-ui.png)
+![Query Builder UI Screenshot](./docs/query-builder-ui.png)
 
 
 ---
