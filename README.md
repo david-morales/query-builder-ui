@@ -2,6 +2,11 @@
 
 This project is a React-based Query Builder that provides a user-friendly interface for building, exporting, and importing queries. It includes support for SQL and Elasticsearch query formats and provides a natural language explanation of the current query.
 
+## 📸 Screenshot
+
+![Query Builder UI Screenshot](./screenshots/query-builder-ui.png)
+
+
 ---
 
 ## Features
